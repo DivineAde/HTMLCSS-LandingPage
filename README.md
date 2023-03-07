@@ -1,4 +1,4 @@
-# Build a Rock Climbing Company Landing Page with HTML & CSS
+# Build a Rock Climbing Company Landing Page using HTML & CSS
 
 Verify Local Environment
 Installation
